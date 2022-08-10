@@ -2,7 +2,7 @@
  * binary_search_tree.cpp
  *
  *  Created on: 31-Jul-2022
- *      Author: rudra
+ *      Author: rudradev
  */
 
 #include <cstdio>
